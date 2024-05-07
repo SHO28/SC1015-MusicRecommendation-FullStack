@@ -20,4 +20,4 @@ Exploratory Data Analysis
 Project Description
 The ml model, EDA jupyter notebook and flask server are in the ML model and backend folder. The react and Java Script frontend Website is in the client folder.
 
-Here is a screen recording of the working Webapp:
+
